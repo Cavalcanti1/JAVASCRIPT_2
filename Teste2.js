@@ -11,6 +11,6 @@ var total_livros = colecao_livros.length;
 var primeiro_livro = colecao_livros[0];
 var ultimo_livro = colecao_livros[4];
 
-console.log( "O total de livros [e: " + total_livros );
+console.log( "O total de livros é: " + total_livros );
 console.log( "O nome do primeiro livro da coleção é: " + primeiro_livro.nome );
 console.log( "O nome do último livro da coleção é: " + ultimo_livro.nome );
